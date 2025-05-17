@@ -1,6 +1,6 @@
-# 🧩 Tower of Guessing – Script Automático
+# 🧩 Tower of Guessing – Auto Script
 
-Un script eficiente y fácil de usar para el juego **“Tower of Guessing”** en Roblox. Detecta automáticamente el modelo más cercano en la plataforma y muestra su nombre al instante, con funciones rápidas para facilitar tu progreso en el juego.
+An efficient and easy-to-use script for the **“Tower of Guessing”** game on Roblox. It automatically detects the closest model on the platform and instantly shows its name, with quick functions to facilitate your progress in the game.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Tower-of-Guessing-Script/refs/heads/main/Tower%20of%20guessing%20by%20AlexScriptX.lua"))()
@@ -8,47 +8,46 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Tower-of-
 
 ---
 
-## ✨ Características
+## ✨ Features
 
-### 🔍 Detección Inteligente
-- Escanea constantemente las plataformas para **identificar el modelo más cercano** a tu personaje.
-- Ideal para avanzar sin detenerte a escribir o adivinar manualmente.
+### 🔍 Smart Detection
+- Constantly scans platforms to **identify the closest model** to your character.
+- Perfect for progressing without stopping to type or guess manually.
 
-### 🧠 Interfaz Limpia
-- Muestra el nombre del modelo detectado de forma clara y en tiempo real.
-- Diseño minimalista y no intrusivo, perfecto para mantenerse enfocado en el juego.
+### 🧠 Clean Interface
+- Displays the detected model's name clearly and in real-time.
+- Minimalist and non-intrusive design, ideal for staying focused on the game.
 
-### ⚡ Funciones Rápidas
-- Un solo clic para **copiar el nombre del modelo** al portapapeles.
-- Atajos de teclado integrados para acciones instantáneas.
+### ⚡ Quick Functions
+- One click to **copy the model name** to your clipboard.
+- Integrated keyboard shortcuts for instant actions.
 
 ---
 
-## 🎛️ Controles / Keybinds
+## 🎛️ Controls / Keybinds
 
-| Tecla | Acción                            |
+| Key   | Action                            |
 |:-----:|-----------------------------------|
-| `Q`   | 📋 Copiar el nombre del modelo cercano. |
-| `M`   | ❌ Detener el script y ocultar la interfaz. |
+| `Q`   | 📋 Copy the name of the closest model. |
+| `M`   | ❌ Stop the script and hide the interface. |
 
 ---
 
-## 📎 Instrucciones
+## 📎 Instructions
 
-1. Ejecuta el script dentro del juego **Tower of Guessing**.
-2. La interfaz mostrará automáticamente el nombre del modelo más cercano.
-3. Presiona `Q` para copiarlo o `M` para cerrar todo cuando termines.
-
----
-
-## 🎮 Link del juego
-
-https://www.roblox.com/es/games/7666393362/Tower-of-Guessing
-
+1. Run the script within the **Tower of Guessing** game.
+2. The interface will automatically display the name of the closest model.
+3. Press `Q` to copy it or `M` to close everything when you're done.
 
 ---
 
-## 🧑‍💻 Autor
+## 🎮 Game Link
 
-Desarrollado por **AlexScriptX**  
-🔧 Hecho para ayudarte a completar niveles de forma rápida y sin esfuerzo.
+https://www.roblox.com/games/7666393362/Tower-of-Guessing
+
+---
+
+## 🧑‍💻 Author
+
+Developed by **AlexScriptX**  
+🔧 Made to help you complete levels quickly and effortlessly.
